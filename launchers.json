@@ -85,7 +85,7 @@
   "omakade": {
     "icon": "io.github.tsouth89.Omakade",
     "glyph": "",
-    "accent": "#f3e8bd",
+    "accent": "",
     "label": "Omakade",
     "sublabel": "Library",
     "when": "false",
